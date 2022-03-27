@@ -1,4 +1,3 @@
-# Materiales de Desarrollo de Aplicaciones en Internet
+# Ejercicio propuesto en el apartado de teoría 6.5. Modificación de la API REST
 
-Fuentes de los materiales para la asignatura Desarrollo de Aplicaciones en Internet. Probablemente has llegado aquí buscando los materiales compilados a HTML, 
-que puedes consultar [aquí](https://jaspock.github.io/dai2122).
+Este repositorio contiene el código de dicho ejercicio resuelto.
