@@ -184,7 +184,6 @@ app.get(config.app.base+'/:carrito/productos', async (req, res) => {
   }
 });
 
-
 // lista los datos de un item:
 app.get(config.app.base+'/:carrito/productos/:item', async (req, res) => {
   try {
